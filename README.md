@@ -14,7 +14,7 @@ This repository contains the necessary files to set up a Kong API Gateway instan
    ```
 2. Navigate to the repository directory:
     ```shel
-    kong-initial-steps
+    cd kong-initial-steps
     ```
 3. Build and start the Kong API Gateway container:
     ```shel
